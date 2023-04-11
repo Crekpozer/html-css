@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de hover</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        div > ul{
+            display: none;
+        }
+
+        div:hover > ul{
+            display: block;
+            color: white;
+            background-color: lightgray;
+            width: 300px;
+        }
+
+        div:hover{
+            color: red;
+        }
+
+        li{
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de hover</h1>
+    <p>Passe o mouse sobre o texto abaixo</p>
+    <div>
+        Passe o mouse aqui
+        <ul>
+            <li><a href="pseudoclasse.html">Pagina sobre Pseudo-classes</a></li>
+            <li><a href="https://www.youtube.com/@CursoemVideo">Homepage do Curso em video</a></li>
+            <li><a href="https://www.youtube.com/watch?v=vMlrcOVr7po&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=22">video sobre essa aula no youtube</a></li>
+        </ul>
+    </div>
+    <p>Fim do Exemplo</p>
+</body>
+</html>

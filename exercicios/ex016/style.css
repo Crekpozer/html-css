@@ -1,0 +1,32 @@
+@chatset UTF-8;
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body{
+    background-image: linear-gradient(to left, #33E8E8,#35F2BD);
+}
+main{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px #E87633;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color: #9C3B03;
+    text-align: center;
+    text-shadow: 1px 1px 0px #5f2503a2;
+}
+
+h2{
+    color: #E87633;
+}
+
+p{
+    text-align: justify; 
+}

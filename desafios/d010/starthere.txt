@@ -1,0 +1,23 @@
+[header]
+
+OK
+
+[body]
+
+OK
+
+[main]
+
+- Ajustar o tamanho
+- Ajustar a fonte
+
+[article]
+
+
+- justificar o texto principal
+
+- Mudar a cor da fonte dos titulos
+
+[frame do youtube]
+
+OK
