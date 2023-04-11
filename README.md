@@ -1,6 +1,8 @@
 # html-css
  Curso de HTML 5 e CSS3
 
-Repositório de estudos de HTML 5 e CSS3
+Olá, seja bem-vinde ao meu portifolio! Aqui estarão minha atividades do curso de HTML 5 e CCS3 do Curso em Video e outros projetos paralelos.
 
-<a href="https://crekpozer.github.io/html-css/exercicios/ex001/index.html"> executar o exercicio 001</a>
+Fique a vontade pra entrar em contato comigo pelo email: ereck@live.com
+
+- Exercicio 001 - Meu primeiro documento HTML
