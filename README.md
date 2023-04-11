@@ -23,3 +23,13 @@ Fique a vontade pra entrar em contato comigo pelo email: ereck@live.com
 - <a href="https://crekpozer.github.io/html-css/exercicios/ex010/index.html">Exercicio 010</a> - Links
 
 - <a href="https://crekpozer.github.io/html-css/exercicios/ex011/index.html">Exercicio 011</a> - Midias: Imagem dinamica e audio
+
+- <a href="https://crekpozer.github.io/html-css/exercicios/ex012/index.html">Exercicio 012</a> - Inserindo vídeos hospedados localmente
+
+- <a href="https://crekpozer.github.io/html-css/exercicios/ex013/index.html">Exercicio 013</a> - Estilos Inline
+
+- <a href="https://crekpozer.github.io/html-css/exercicios/ex014/index.html">Exercicio 014</a> - Estilos internos e Externos PT.1
+
+- <a href="https://crekpozer.github.io/html-css/exercicios/ex015/index.html">Exercicio 015</a> - Estilos internos e Externos PT.2
+
+- <a href="https://crekpozer.github.io/html-css/exercicios/ex016/index.html">Exercicio 016</a>
