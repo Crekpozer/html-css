@@ -32,4 +32,14 @@ Fique a vontade pra entrar em contato comigo pelo email: ereck@live.com
 
 - <a href="https://crekpozer.github.io/html-css/exercicios/ex015/index.html">Exercicio 015</a> - Estilos internos e Externos PT.2
 
-- <a href="https://crekpozer.github.io/html-css/exercicios/ex016/index.html">Exercicio 016</a>
+- <a href="https://crekpozer.github.io/html-css/exercicios/ex016/index.html">Exercicio 016</a> - Cores em CSS
+
+- <a href="https://crekpozer.github.io/html-css/exercicios/ex017/index.html">Exercicio 017</a> - 
+
+- <a href="">Exercicio 018</a>
+
+- <a href="">Exercicio 019</a>
+
+- <a href="">Exercicio 020</a>
+
+- <a href="">Exercicio 021</a>
