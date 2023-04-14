@@ -43,3 +43,6 @@ Fique a vontade pra entrar em contato comigo pelo email: ereck@live.com
 - <a href="https://crekpozer.github.io/html-css/exercicios/ex020/index.html">Exercicio 020</a> - Pseudo-classes, hover e links PT.1
 
 - <a href="https://crekpozer.github.io/html-css/exercicios/ex020/index.html">Exercicio 021</a> - Pseudo-classes, hover e links PT.2
+
+- <a href="">Exercicio 022</a> - Imagens de fundo
+
